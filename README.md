@@ -143,6 +143,9 @@ data={[
 ]}
 ```
 
+<image src="https://github.com/Simuratli/charts/blob/master/src/BartChart/asset/barchart.png?raw=true" />
+
+
 #### Customization
 
 *   **Dimensions**: Adjust `width` and `height` to control the chart's size.
