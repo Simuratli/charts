@@ -1,1 +1,6 @@
-export * from "./BarChart";
+import LineChart from "./LineChart";
+
+
+export {
+    LineChart
+}
