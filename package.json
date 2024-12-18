@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://pastebin.com/raw/NT2Z7Kas",
   "repository": {
-    "url": "https://github.com/github/gitignore/blob/main/Node.gitignore"
+    "url": "https://github.com/Simuratli/charts"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
